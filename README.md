@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sadhvi-pugaonkar-github.vercel.app/](https://sadhvi-pugaonkar-github.vercel.app/)
 
-- 📫 How to reach me **sadhvip101@gmail.com**
+- 📫 How to reach me **sadhvipugaonkarwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
