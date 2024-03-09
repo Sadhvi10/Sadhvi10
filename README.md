@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadhvi Pugaonkar</h1>
 <h3 align="center">A full-stack web developer seeking an entry-level position at a technical and progressive organization.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhvi10&label=Profile%20views&color=0e75b6&style=flat" alt="sadhvi10" /> </p>
-
 - 🔭 I’m currently working on **Eventorama: A Tournament Managing Web Application**
 
 - 🌱 I’m currently learning **SASS**
